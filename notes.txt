@@ -15,25 +15,26 @@
 git clone
 ```
 ### To add a file to git
-
+```
 git add notes.txt
-
+```
 ### To commit added file to git
-
+```
 git commit -m "Initial commit notes.txt for remote pairing"
-
+```
 ### To push committed file to git
-
+```
 git push origin master
-
+```
 or
-
+```
 git push
-
+```
 ### To get latest changes in git
-
+```
 git pull origin master
-
+```
 or
-
+```
 git pull
+```
