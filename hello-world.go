@@ -1,9 +1,4 @@
 package main
-
-import (
-	"fmt"
-
-)
 import (
 	"fmt"
 	"github.com/go-by-examples/maths"
